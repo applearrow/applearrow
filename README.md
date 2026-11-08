@@ -1,32 +1,18 @@
-<!--
-GitHub profile README
-To publish this on your profile, create a public repository named exactly
-after your GitHub username and place this file at its root.
-Replace the bracketed prompts and remove anything that does not fit.
--->
+# Hi, I'm applearrow 👋
 
-# Hi, I'm [Your name] 👋
+I build software across Android and cloud tooling. My public projects range from Kotlin app samples to Python utilities and experiments with APIs, automation, and observability.
 
-I'm a [your role or area of study] interested in [the problems or topics you work on].
+## Areas I work with
 
-- 🔭 Currently working on **[project or area]**
-- 🌱 Learning **[technology or topic]**
-- 💬 Ask me about **[topics you enjoy discussing]**
-- 📫 Reach me at **[email or preferred contact link]**
+- **Android:** Kotlin, coroutines, navigation, and UI examples
+- **Cloud and APIs:** Python utilities, Azure Communication Services, and API tooling
+- **Infrastructure and observability:** Docker Compose, OpenSearch, OpenTelemetry, and GitHub Actions
 
-## About me
+## Selected projects
 
-Write two or three sentences about what you build, the kind of work you enjoy, and what you are looking for. Keep only details you are comfortable sharing publicly.
+- [Azure Communication Services admin](https://github.com/applearrow/azure-comm-service-admin) — Python scripts for creating users and retrieving access tokens.
+- [CoroutineTest](https://github.com/applearrow/CoroutineTest) — examples of unit testing Kotlin coroutines.
+- [Android Navigation](https://github.com/applearrow/android-navigation) — an Android Navigation codelab.
+- [Form Recognizer](https://github.com/applearrow/form-recognizer) — a small project for testing form recognition performance.
 
-## What I use
-
-`[Language]` · `[Framework or tool]` · `[Platform or area of expertise]`
-
-## Selected work
-
-- **[Project name]** — [One-line description of what it does and why it matters.] ([Repository](https://github.com/your-username/your-repository))
-- **[Project name]** — [One-line description.] ([Repository](https://github.com/your-username/your-repository))
-
-## Find me
-
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Personal site](https://example.com) · [Email](mailto:you@example.com)
+Most of my repositories are practical examples, experiments, and learning projects. Browse the [repositories](https://github.com/applearrow?tab=repositories) for more.
